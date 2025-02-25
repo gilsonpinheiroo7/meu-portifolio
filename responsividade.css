@@ -1,11 +1,11 @@
-/* Responsividade para iPad (tablet) */
+
 @media (max-width: 1024px) {
 
     .container {
         padding: 0;
     }
 
-    /************************** SOBRE ***/
+    
     .sobre {
         height: auto;
     }
@@ -50,7 +50,7 @@
         width: 100%;
     }
 
-    /************************** SERVIÇOS ***/
+  
 
     .headline-servicos {
         flex-direction: column;
@@ -74,7 +74,7 @@
         font-size: 1.4rem;
     }
 
-    /************************** PORTFOLIO ***/
+
 
     .container-portfolio {
         gap: 2rem;
@@ -134,7 +134,7 @@
         height: 35vh;
     }
 
-    /************************** CONTATO ***/
+  
     .contato {
         padding: 0rem 1rem 2rem 1rem;
         height: auto;

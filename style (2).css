@@ -1,4 +1,4 @@
-/******************** Fontes usadas */
+
 @import url('https://fonts.cdnfonts.com/css/tt-hoves-pro-trial');
 @import url('clash-grotesk.css');
 
@@ -19,7 +19,7 @@
     --color-destaque2: #728e6f;
 }
 
-/* Estilizando a barra de rolagem */
+
 ::-webkit-scrollbar {
     width: 12px;
 }
@@ -62,7 +62,7 @@ a {
     text-decoration: none;
 }
 
-/*Botões fixos*/
+
 .fixed-button {
     position: fixed;
     display: none;
@@ -127,7 +127,7 @@ a {
     justify-content: center;
 }
 
-/*************** HEADER *****/
+
 .header {
     user-select: none;
     position: fixed;
@@ -144,7 +144,7 @@ a {
     -webkit-backdrop-filter: blur(10px); 
 }
 
-/* Logo */
+
 .logo {
     width: 100%;
 }
@@ -153,7 +153,7 @@ a {
     width: 150px;
 }
 
-/* Menu */
+
 .menu {
     display: flex;
     align-items: center;
@@ -197,7 +197,7 @@ a {
     stroke-dashoffset: -32.42;
 }
 
-/* Menu Navegação */
+
 .menu-aberto {
     background-color: var(--color-black);
     position: fixed;
@@ -252,7 +252,7 @@ a {
     transition: all 0.3s ease;
 }
 
-/*************** INICIO *****/
+
 .inicio {
     width: 100%;
     height: 100vh;
@@ -301,7 +301,7 @@ a {
     font-family: var(--font-pequena);
 }
 
-/* Botão Inicio */
+
 .cta {
     position: relative;
     margin: auto;
@@ -389,7 +389,7 @@ a {
     opacity: 1;
 }
 
-/*************** SOBRE *****/
+
 .sobre {
     background-color: var(--color-black);
     width: 100%;
@@ -561,7 +561,7 @@ a {
     z-index: 99;
 }
 
-/*************** SKILLS *****/
+
 .skills {
     width: 100%;
     padding: 7rem 1rem;
@@ -647,7 +647,7 @@ a {
     }
 }
 
-/*************** SERVIÇOS *****/
+
 .servicos {
     background-color: var(--color-white);
     width: 100vw;
@@ -760,7 +760,7 @@ a {
     margin-bottom: -7px;
 }
 
-/*************** ALGUMA FRASE AQUI  *****/
+
 .free-your-mind {
     background-color: var(--color-white);
     width: 100vw;
@@ -814,7 +814,7 @@ a {
     margin: 0 4rem;
 }
 
-/*************** PORTFOLIO *****/
+
 .portfolio {
     width: 100%;
     height: 100%;
@@ -981,7 +981,7 @@ a {
     letter-spacing: 1.2px;
 }
 
-/*************** CONTATO *****/
+
 .contato {
     width: 100vw;
     height: auto;
@@ -1124,7 +1124,7 @@ a {
     border-radius: 36px;
 }
 
-/*************** FOOTER *****/
+
 .footer {
     background-color: var(--color-black);
     width: 100%;
